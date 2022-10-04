@@ -53,6 +53,7 @@
 - [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
 - [Gusky](https://github.com/iGusky)
+- [Usama Jamil](https://github.com/usamajamil67)
 - [Heeendri](https://github.com/heeendri/)
 - [Alen Thomas](https://github.com/AlenST)
 - [Daniel Hiebeler](https://github.com/daniebeler)
